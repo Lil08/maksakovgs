@@ -1,0 +1,31 @@
+html,
+body {
+    height: 100%;
+}
+
+/* MAIN */
+
+.row {
+    height:  100vh;
+}
+.headerwrap {
+    font-size: large;
+}
+.info {
+    text-align: center;
+}
+h1 {
+    font-size: xx-large;
+}
+h2 {
+    font-size: x-large;
+}
+
+.btn-primary{
+    font-size: larger;
+    padding: 10px 30px;
+}
+
+.why-item img{
+    width: 60px;
+}
