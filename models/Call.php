@@ -15,10 +15,6 @@ use Yii;
  */
 class Call extends \yii\db\ActiveRecord
 {
-//    public $name;
-//    public $created;
-//    public $email;
-//    public $text;
 
     /**
      * {@inheritdoc}
