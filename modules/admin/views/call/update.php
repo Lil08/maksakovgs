@@ -6,9 +6,9 @@ use yii\helpers\Html;
 /* @var $model app\models\Call */
 
 $this->title = 'Редактирование: ' . $model->name;
-$this->params['breadcrumbs'][] = ['label' => 'Calls', 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => 'Заявки', 'url' => ['index']];
 $this->params['breadcrumbs'][] = ['label' => $model->name, 'url' => ['view', 'id' => $model->id]];
-$this->params['breadcrumbs'][] = 'Update';
+$this->params['breadcrumbs'][] = 'Редактирование';
 ?>
 <div class="call-update">
 
