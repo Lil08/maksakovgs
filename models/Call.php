@@ -56,7 +56,7 @@ class Call extends \yii\db\ActiveRecord
         if ($this->validate()) {
             Yii::$app->mailer->compose()
                 ->setTo($email)
-                ->setFrom([Yii::$app->params['senderEmail'] => Yii::$app->params['senderName']])
+                ->setFrom('maksakow28@yandex.ru')
                 ->setReplyTo([$this->email => $this->name])
                 ->setSubject('Заявка с сайта от ' . $this->email)
                 ->setTextBody($this->text)
