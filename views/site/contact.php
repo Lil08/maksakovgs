@@ -12,7 +12,7 @@ use yii\helpers\{Html, HtmlPurifier};
 use yii\widgets\ActiveForm;
 use yii\captcha\Captcha;
 
-$this->title = 'Contact';
+$this->title = 'Контакты';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="container">

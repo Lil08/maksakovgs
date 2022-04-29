@@ -2,6 +2,8 @@
 
 use app\widgets\ServicesWidget;
 
+$this->title = 'Юридическая помощь';
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 ?>
 
