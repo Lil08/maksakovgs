@@ -124,11 +124,9 @@ AppAsset::register($this);
             </div>
             <div class="col-lg-4">
                 <div class="widget">
-                    <h5 class="widgetheading">Текст пример</h5>
+                    <h5 class="widgetheading">Юридическая помощь</h5>
                     <ul class="link-list">
-                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                        <li><a href="#">Pellentesque et pulvinar enim. Quisque at tempor ligula</a></li>
-                        <li><a href="#">Natus error sit voluptatem accusantium doloremque</a></li>
+                        <li><a href="/services">Предоставление юридической помощи по вопросам любой сложности</a></li>
                     </ul>
                 </div>
             </div>
