@@ -28,50 +28,13 @@ AppAsset::register($this);
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/responsive-slider.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link href="css/style.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
     <?php $this->registerCsrfMetaTags() ?>
     <title><?= Html::encode($this->title) ?></title>
     <?php $this->head() ?>
-    <!-- Yandex.Metrika counter -->
-    <!--    <script type="text/javascript" >-->
-    <!--        (function (d, w, c) {-->
-    <!--            (w[c] = w[c] || []).push(function() {-->
-    <!--                try {-->
-    <!--                    w.yaCounter49823545 = new Ya.Metrika2({-->
-    <!--                        id:49823545,-->
-    <!--                        clickmap:true,-->
-    <!--                        trackLinks:true,-->
-    <!--                        accurateTrackBounce:true,-->
-    <!--                        webvisor:true-->
-    <!--                    });-->
-    <!--                } catch(e) { }-->
-    <!--            });-->
-    <!---->
-    <!--            var n = d.getElementsByTagName("script")[0],-->
-    <!--                s = d.createElement("script"),-->
-    <!--                f = function () { n.parentNode.insertBefore(s, n); };-->
-    <!--            s.type = "text/javascript";-->
-    <!--            s.async = true;-->
-    <!--            s.src = "https://mc.yandex.ru/metrika/tag.js";-->
-    <!---->
-    <!--            if (w.opera == "[object Opera]") {-->
-    <!--                d.addEventListener("DOMContentLoaded", f, false);-->
-    <!--            } else { f(); }-->
-    <!--        })(document, window, "yandex_metrika_callbacks2");-->
-    <!--    </script>-->
-    <!--    <noscript><div><img src="https://mc.yandex.ru/watch/49823545" style="position:absolute; left:-9999px;" alt="" /></div></noscript>-->
-    <!-- /Yandex.Metrika counter -->
 
 </head>
 <body>
@@ -153,14 +116,7 @@ AppAsset::register($this);
     </div>
     </div>
 </footer>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jquery.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/responsive-slider.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/jquery.magnific-popup.js"></script>
-<script src="js/functions.js"></script>
+
 <script>
     wow = new WOW(
         {})

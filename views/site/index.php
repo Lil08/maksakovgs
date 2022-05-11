@@ -50,7 +50,8 @@ $this->title = 'Адвокат Максаков Геннадий Сергеев�
                                             aria-pressed="false" autocomplete="off"><h2>эффективность</h2></button>
                                     <div class="caption-sub" data-animate="slideAppearUpToDown" data-delay="800"
                                          data-length="300">
-                                        <button class="btn btn-primary"><h4><span>множество успешно проведенных дел </span>
+                                        <button class="btn btn-primary"><h4>
+                                                <span>множество успешно проведенных дел </span>
                                             </h4></button>
                                     </div>
                                     <div class="caption-sub" data-animate="slideAppearRightToLeft" data-delay="1200"
@@ -60,26 +61,6 @@ $this->title = 'Адвокат Максаков Геннадий Сергеев�
                                 </div>
                             </div>
                         </li>
-<!--                        <li>-->
-<!--                            <div class="slide-body" data-group="slide">-->
-<!--                                <img src="img/10.jpg" alt="">-->
-<!--                                <div class="caption header" data-animate="slideAppearUpToDown" data-delay="500"-->
-<!--                                     data-length="300">-->
-<!--                                    <button type="button" class="btn btn-primary" data-toggle="button"-->
-<!--                                            aria-pressed="false" autocomplete="off"><h2> </h2></button>-->
-<!--                                    <div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="800"-->
-<!--                                         data-length="300">-->
-<!--                                        <button class="btn btn-primary"><h4> </h4></button>-->
-<!--                                    </div>-->
-<!--                                    <div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="1200"-->
-<!--                                         data-length="300">-->
-<!--                                        <button class="btn btn-primary"><h3><span> </span></h3></button>-->
-<!--                                    </div>-->
-<!---->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-
                     </ul>
                 </div>
 
@@ -118,18 +99,8 @@ $this->title = 'Адвокат Максаков Геннадий Сергеев�
                     <div class="col-lg-6 mar-bot30">
                         <div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
                             <div class="slides" data-group="slides">
-                                <ul>
-                                    <div class="slide-bodys" data-group="slide">
-                                        <!--                                        ФОТО ЮРИСТА-->
-                                        <li><img alt="" class="img-responsive" src="img/3.jpg" width="100%"
-                                                 height="450"/></li>
-                                        <li><img alt="" class="img-responsive" src="img/4.jpg" width="100%"
-                                                 height="450"/></li>
-                                        <li><img alt="" class="img-responsive" src="img/5.jpg" width="100%"
-                                                 height="450"/></li>
-                                    </div>
-                                </ul>
-
+                                <img alt="" class="img-responsive" src="img/foto.jpg" width="80%"
+                                     height=""/>
                             </div>
                         </div>
                     </div>
