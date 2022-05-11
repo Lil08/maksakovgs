@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://maksakovgs.ru//</loc>
+        <lastmod>2022-05-11T11:31:12+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://maksakovgs.ru//"/>
+    </url>
+    <url>
+        <loc>https://maksakovgs.ru//services</loc>
+        <lastmod>2022-05-11T11:31:12+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://maksakovgs.ru//services"/>
+    </url>
+    <url>
+        <loc>https://maksakovgs.ru//contact</loc>
+        <lastmod>2022-05-11T11:31:12+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://maksakovgs.ru//contact"/>
+    </url>
+</urlset>
